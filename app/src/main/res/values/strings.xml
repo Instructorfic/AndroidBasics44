@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiPrimeraAplicacion</string>
+    <string name="hint_password">Proporciona tu contraseña</string>
+    <string name="hint_username">Proporciona tu nombre de usuario</string>
+    <string name="btn_login">Login</string>
+    <string name="success_login">Credenciales correctas</string>
+    <string name="failed_login">Credenciales incorrectas, intente de nuevo</string>
+    <string name="btn_web_site">Ir a sitio web</string>
+    <string name="btn_call_phone_number">Marcar a número</string>
+
+</resources>

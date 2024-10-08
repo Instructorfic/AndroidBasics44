@@ -1,0 +1,45 @@
+# Built application files
+*.apk
+*.ap_
+*.dex
+
+# Java class files
+*.class
+
+# Java source files
+*.jar
+*.war
+*.ear
+
+# Gradle files
+.gradle/
+build/
+*/build/
+**/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Gradle Wrapper
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Android Studio captures
+*.hprof
+
+# User-specific configurations
+.idea/
+*.iml
+*.ipr
+*.iws
+*.jks
+
+# Miscellaneous files
+*.log
+*.so
+*.swp
+*.DS_Store
+
+# Generated files
+captures/
+output.json
